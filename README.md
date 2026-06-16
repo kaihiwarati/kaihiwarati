@@ -78,7 +78,7 @@
   <a href="https://t.me/Kaihiwarati">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
   </a>
-  <a href="https://discord.com/users/yourdiscordid">
+  <a href="https://discord.com/users/i_kaihiwarati">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
   </a>
   <a href="https://instagram.com/i.kaihiwarati">

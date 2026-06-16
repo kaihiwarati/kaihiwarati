@@ -29,15 +29,11 @@
   <img src="https://streak-stats.demolab.com/?user=kaihiwarati&theme=merko&hide_border=true&cache_seconds=86400" alt="kaihiwarati's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kaihiwarati&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kunal's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kaihiwarati&theme=merko&radius=10" alt="kaihiwarati's Activity Graph" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
-
 
 
 

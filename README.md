@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - ✨ Creating bugs since 2005
@@ -113,6 +113,6 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
